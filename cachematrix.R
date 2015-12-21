@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Functions to create a matrix object with a cacheable inverse and functions to
+## return the matrix's inverse, computing only if not cached.
 
 ## Create a closure for solving (getting the matrix inverse) a matrix and
 ## caching the inverse.
